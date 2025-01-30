@@ -16,7 +16,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Georg Christian Apel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-10-22</metaTag>
     <metaTag name="lyricist"></metaTag>
