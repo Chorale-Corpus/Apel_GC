@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+INCORRECT_VOLTA_MN_WARNING (2, 11) ms3.Parse.Apel_GC.A-MCAU_AP1832-010_SID097
+	MC 11, the 1st measure of a 2nd volta, should have MN 10, not MN 11.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.Apel_GC.A-MCAU_AP1832-010_SID097
+	No metronome mark found in the first measure nor anywhere else in the score.
